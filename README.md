@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shiomshrivastava/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shiomshrivastava/LeetCode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiomshrivastava/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shiomshrivastava/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shiomshrivastava/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shiomshrivastava/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shiomshrivastava/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shiomshrivastava/LeetCode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiomshrivastava/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shiomshrivastava/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -80,4 +82,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shiomshrivastava/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shiomshrivastava/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shiomshrivastava/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shiomshrivastava/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shiomshrivastava/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
