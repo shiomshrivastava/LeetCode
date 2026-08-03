@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shiomshrivastava/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiomshrivastava/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shiomshrivastava/LeetCode/tree/master/0704-binary-search) |
+| [1406-stone-game-iii](https://github.com/shiomshrivastava/LeetCode/tree/master/1406-stone-game-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiomshrivastava/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shiomshrivastava/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shiomshrivastava/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/shiomshrivastava/LeetCode/tree/master/1406-stone-game-iii) |
 | [3620-network-recovery-pathways](https://github.com/shiomshrivastava/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/shiomshrivastava/LeetCode/tree/master/1406-stone-game-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shiomshrivastava/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shiomshrivastava/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -148,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shiomshrivastava/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/shiomshrivastava/LeetCode/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/shiomshrivastava/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/shiomshrivastava/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
