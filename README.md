@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shiomshrivastava/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiomshrivastava/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shiomshrivastava/LeetCode/tree/master/0704-binary-search) |
+| [1386-cinema-seat-allocation](https://github.com/shiomshrivastava/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shiomshrivastava/LeetCode/tree/master/1406-stone-game-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiomshrivastava/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shiomshrivastava/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shiomshrivastava/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/shiomshrivastava/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shiomshrivastava/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shiomshrivastava/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -167,5 +169,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/shiomshrivastava/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shiomshrivastava/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/shiomshrivastava/LeetCode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
